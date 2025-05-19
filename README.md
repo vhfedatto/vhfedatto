@@ -81,7 +81,7 @@
 
 ###
 
-<p align="left">🇧🇷 Portuguese (native)<br>🇺🇸 English (B2)<br>🇩🇪 German (beginner)<br>🇪🇸 Spanish (beginner)</p>
+<p align="left">🇧🇷 Portuguese (native)<br>🇺🇸 English (B2)<br>🇩🇪 German (beginner)<br>🇪🇸 Spanish (beginner)<br>🇳🇴 Bokmål (beginner)</p>
 
 ###
 
