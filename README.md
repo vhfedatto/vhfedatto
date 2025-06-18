@@ -86,7 +86,7 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/main/snake.svg" alt="Snake animation" />
 </p>
 
 ###
