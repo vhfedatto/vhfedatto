@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>
-    <a href="https://seuportifolio.com" target="_blank" style="text-decoration: none;">
+    <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
       Fedatto's Landing Page <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
     </a>
   </i>
@@ -52,12 +52,29 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vhfedatto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vhfedatto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhfedatto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="145" alt="languages graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=vhfedatto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />-->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vhfedatto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="185"  alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhfedatto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="185" alt="languages graph"  /> <!--<br>-->
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation" />
+<h2 align="center">MAIN PROJECTS</h2>
+
+<p align="center">
+  <i>
+    <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
+      StepUp <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
+    </a>
+    <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
+      CodeScore <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
+    </a>
+    <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
+      GerenciALL <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
+    </a>
+  </i>
+</p>
+
+###
+<!--<img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation" />-->
 
