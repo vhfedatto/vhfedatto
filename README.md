@@ -78,7 +78,7 @@
 
 ###
 
-<h2 align="center">MAIN PROJECTS</h2>
+<!--<h2 align="center">MAIN PROJECTS</h2>
 
 <p align="center">
   <i>
@@ -92,7 +92,7 @@
       GerenciALL <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
     </a>
   </i>
-</p><br>
+</p><br>-->
 
 ###
 
