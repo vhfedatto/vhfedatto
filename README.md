@@ -106,3 +106,9 @@
   <img width="15" />
   <!--<img src="assets/idiomas/ge.svg" height="40" alt="germany"  />-->
 </div>
+
+###
+
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation"/>
+</div>
