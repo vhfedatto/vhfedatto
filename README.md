@@ -1,36 +1,38 @@
-<h1 align="center">I'M VICTOR H FEDATTO!</h1>
+<h1 align="center">👋 I'M VICTOR H. FEDATTO!</h1>
 
 <p align="center">
-  <i>
-    <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
-      Fedatto's Landing Page <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
-    </a>
-  </i>
+  <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
+    <i>Fedatto's Landing Page</i> 
+    <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
+  </a>
 </p>
 
 ---
 
-<img src="assets/banner/banner-fp3.jpg" alt="banner principal do perfil">
+<p align="center">
+  <img src="assets/banner/banner-fp3.jpg" alt="Main Banner" width="100%" />
+</p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="105" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="110" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="105" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="110" alt="linkedin logo" />
   <a href="https://www.instagram.com/fedatto_code/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" width="150" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" width="150" alt="instagram logo" />
   </a>
 </div>
 
+<h2>📌 About Me</h2>
+
+- <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian student of **Law (FICV)** and **Computer Science (UNIESP)**
+- 📚 Passionate about **Java**, but currently focused on **JavaScript**, **UX/UI design**, and documentation
+
 ---
 
-👋Hello! My name is Victor Hugo Fedatto, I'm Brazilian <img src="assets/idiomas/br.svg" width="15" alt="brazil"  />, a Law (FICV) and Computer Science (UNIESP) student. I'm always looking to learn new programming technologies.
-
-📚Currently, I'm improving my skills in Front-end,Python, database and working on personal projects.
-
----
+<!---->
 
 <img align="right" width="180" src="assets/gif/dattus-pc.gif"  />
 
-<h3 align="left">== My Stack ==</h3>
+<h3 align="left">💻 My Stack</h3>
 
 ###
 
@@ -52,7 +54,9 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" alt="tailwindcss logo"  />
 </div>
 
-<h3 align="left">== Technologies ==</h3>
+<img height="10" />
+
+<h3 align="left">🧰 Technologies & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="figma logo"  />
@@ -64,9 +68,9 @@
 
 ###
 
----
+<img height="10" />
 
-<h2 align="center">== My GitHub Status ==</h2>
+<h2 align="center">📈 My GitHub Status 📈</h2>
 
 ###
 
@@ -79,25 +83,26 @@
 
 ###
 
-<h2 align="center">MAIN PROJECTS</h2>
+
+<!-- <h2 align="center">🚀 Main Projects 🚀</h2>
 
 <p align="center">
-  <i>
-    <a href="https://github.com/vhfedatto/pjt-Stepup" target="_blank" style="text-decoration: none;">
-      StepUp <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
-    </a>
-    <!--<a href="https://mylink.com" target="_blank" style="text-decoration: none;">
-      CodeScore <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
-    </a>
-    <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
-      GerenciALL <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
-    </a>-->
-  </i>
-</p><br>
+  <a href="https://github.com/vhfedatto/pjt-Stepup" target="_blank">
+    StepUp <img src="assets/icons/arrow-square-out.png" alt="link" width="16px" />
+  </a>
+  <a href="https://github.com/vhfedatto/code-score" target="_blank">
+    CodeScore <img src="assets/icons/arrow-square-out.png" alt="link" width="16px" />
+  </a>
+  <a href="https://github.com/vhfedatto/gerenciall" target="_blank">
+    GerenciALL <img src="assets/icons/arrow-square-out.png" alt="link" width="16px" />
+  </a>
+</p>
+-->
 
 ###
+<br />
 
-<h2 align="center">==🌐 Languages I speak 🌐==</h2>
+<h2 align="center">🌍 Languages I speak 🌍</h2>
 <div align="center">
   <img src="assets/idiomas/br.svg" width="40" alt="brazil"  />
   <img width="15" />
@@ -116,6 +121,15 @@
 
 ###
 
+<h2>✨ Extras</h2>
+
+- 🎨 I also work with **pixel art**, **design**, and **RPG Maker game development**
+- 🎯 I strive to unite **faith**, **logic**, and **creativity** in everything I do
+
+<img height="200" />
+
 <div align="center">
   <img src="assets/banner/logo-fedatto.png" width="150" />
 </div>
+
+
