@@ -113,3 +113,7 @@
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation"/>
 </div>
+
+###
+
+<img src="assets/banner/logo-fedatto.jpeg" width="320px" />
