@@ -1,4 +1,4 @@
-<h1 align="center">I'M VICTOR HUGO FEDATTO!</h1>
+<h1 align="center">I'M VICTOR H FEDATTO!</h1>
 
 <p align="center">
   <i>
@@ -116,4 +116,6 @@
 
 ###
 
-<img src="assets/banner/logo-fedatto.jpeg" width="320px" />
+<div align="center">
+  <img src="assets/banner/logo-fedatto.png" width="150" />
+</div>
