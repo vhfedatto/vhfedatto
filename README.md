@@ -56,7 +56,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" alt="tailwindcss logo"  />
 </div>
 
-<img height="10" />
+<br>
 
 <h3 align="left">🧰 Technologies & Tools</h3>
 
@@ -70,7 +70,7 @@
 
 ###
 
-<img height="10" />
+<br>
 
 <h2 align="center">📈 My GitHub Status 📈</h2>
 
@@ -129,7 +129,7 @@
 - 🎨 I also work with **pixel art**, **design**, and **RPG Maker game development**
 - 🎯 I strive to unite **faith**, **logic**, and **creativity** in everything I do
 
-<img height="200" />
+<br>
 
 <div align="center">
   <img src="assets/banner/logo-fedatto.png" width="150" />
