@@ -32,7 +32,7 @@
 
 <!---->
 
-<img align="right" width="180" src="assets/gif/dattus-pc.gif"  />
+<img align="right" width="220" src="assets/gif/dattus-pc.gif"  />
 
 <h3 align="left">💻 My Stack</h3>
 
@@ -71,8 +71,6 @@
 </div>
 
 ###
-
-<br>
 
 <h2 align="center">📈 My GitHub Status 📈</h2>
 
