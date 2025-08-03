@@ -118,16 +118,16 @@
 
 ###
 
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation"/>
-</div>
-
-###
-
 <h2>✨ Extras</h2>
 
 - 🎨 I also work with **pixel art**, **design**, and **RPG Maker game development**
 - 🎯 I strive to unite **faith**, **logic**, and **creativity** in everything I do
+
+###
+
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation"/>
+</div>
 
 <br>
 
