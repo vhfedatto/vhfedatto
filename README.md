@@ -84,6 +84,12 @@
   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=vhfedatto&radius=16&theme=nightowl&area=true&order=5" height="150" alt="activity-graph graph"  />-->
 </div>
 
+<!-- OUTRO TIPO DE RANK DE LINGUAGENS - PEGUEI DE UM PERFIL JAPA
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhfedatto&theme=radical&show_icons=true">
+</p>
+-->
+
 ###
 
 
