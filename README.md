@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left"></h2>
+<!--<h2 align="left"></h2>
 
 ###
 
@@ -57,7 +57,7 @@
 </div>
 
 ###
-
+-->
 <h1 align="center">My GitHub Status</h1>
 
 ###
@@ -69,7 +69,7 @@
 </div>
 
 ###
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/pacman-contribution-graph.svg">
@@ -90,3 +90,4 @@
 </p>
 
 ###
+-->
