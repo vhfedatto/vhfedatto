@@ -133,6 +133,7 @@
 
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation"/>
+  <img src="assets/snake-test/github-user-contribution.svg" />
 </div>
 
 <br>
