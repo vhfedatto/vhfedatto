@@ -65,8 +65,6 @@
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" alt="notion logo"  />
   <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="30" alt="gimp logo"  />
-  <img width="3" />
   <img src="assets/icons/tecs/apidog-icon.png" width="30" alt="gimp logo"  />
 </div>
 
