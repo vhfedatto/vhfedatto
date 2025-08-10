@@ -32,7 +32,7 @@
 
 <!---->
 
-<img align="right" width="220" src="assets/gif/dattus-pc.gif"  />
+<img align="right" width="200" src="assets/gif/dattus-pc.gif"  />
 
 <h3 align="left">💻 My Stack</h3>
 
@@ -64,8 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="figma logo"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" alt="notion logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="30" alt="gimp logo"  />
   <img width="3" />
   <img src="assets/icons/tecs/apidog-icon.png" width="30" alt="gimp logo"  />
 </div>
@@ -132,7 +130,8 @@
 ###
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation"/>
+  <!--<img src="https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg" alt="Snake animation"/>-->
+  <img src="assets/snake-test/github-user-contribution.svg" />
 </div>
 
 <br>
