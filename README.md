@@ -93,4 +93,4 @@
 ###
 -->
 
-![Snake animation](https://github.com/vhfedatto/vhfedatto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vhfedatto/vhfedatto/output/snake.svg)
