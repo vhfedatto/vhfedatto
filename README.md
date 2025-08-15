@@ -25,8 +25,8 @@
 
 <h2>📌 About Me</h2>
 
-- <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian, 19 year old, student of **Law (FICV)** and **Computer Science (UNIESP)**
-- 📚 Passionate about **Java**, but currently focused on **JavaScript**, **UX/UI design**, and documentation
+- <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian, 20 year old, student of **Law (FICV)** and **Computer Science (UNIESP)**
+- 📚 Passionate about **Java**, but currently focused on **Ruby**, **JS**, **UX/UI design**, and documentation
 
 ---
 
