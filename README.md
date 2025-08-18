@@ -25,8 +25,8 @@
 
 <h2>📌 About Me</h2>
 
-- <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian, 19 year old, student of **Law (FICV)** and **Computer Science (UNIESP)**
-- 📚 Passionate about **Java**, but currently focused on **JavaScript**, **UX/UI design**, and documentation
+- <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian, 20 year old, student of **Law (FICV)** and **Computer Science (UNIESP)**
+- 📚 Passionate about **Java**, but currently focused on **Ruby**, **JS**, **UX/UI design**, and documentation
 
 ---
 
@@ -49,7 +49,7 @@
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python logo"  />
   <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="30" alt="ruby logo"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="mysql logo"  />
   <img width="3" />
