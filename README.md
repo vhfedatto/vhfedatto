@@ -1,13 +1,13 @@
 <h1 align="center">👋 I'M VICTOR H. FEDATTO!</h1>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
     <i>Fedatto's Landing Page</i> 
     <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
   </a>
 </p>
 
----
+--- -->
 
 <p align="center">
   <img src="assets/banner/banner-fp3.jpg" alt="Main Banner" width="100%" />
