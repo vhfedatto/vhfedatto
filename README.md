@@ -30,8 +30,6 @@
 
 ---
 
-<!---->
-
 <img align="right" width="200" src="assets/gif/dattus-pc.gif"  />
 
 <h3 align="left">💻 My Stack</h3>
