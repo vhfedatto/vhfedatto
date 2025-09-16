@@ -15,6 +15,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="105" alt="gmail logo" target="_blank" />
+    <a href="https://dribbble.com/vhfedatto">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" width="135" alt="dribbble logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/victor-hugo-fedatto-625b1b323/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="110" alt="linkedin logo" target="_blank" />  
   </a>
