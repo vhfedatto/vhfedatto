@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'M VICTOR H. FEDATTO!</h1>
+<h1 align="center">👋 I'M VICTOR H. FEDATTO!</h1> 
 
 <!--<p align="center">
   <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
@@ -15,6 +15,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="105" alt="gmail logo" target="_blank" />
+    <a href="https://dribbble.com/vhfedatto">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" width="135" alt="dribbble logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/victor-hugo-fedatto-625b1b323/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="110" alt="linkedin logo" target="_blank" />  
   </a>
@@ -23,7 +26,8 @@
   </a>
 </div>
 
-<h2>📌 About Me</h2>
+<h2 align="left">📌 About Me</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vhfedatto.vhfedatto&left_color=darkred&right_color=palevioletred"  />
 
 - <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian, 20 year old, student of **Law (FICV)** and **Computer Science (UNIESP)**
 - 📚 Passionate about **Java**, but currently focused on **Ruby**, **JS**, **UX/UI design**, and documentation
@@ -81,7 +85,7 @@
   <!--<img src="https://github-readme-stats.vercel.app/api?username=vhfedatto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="185" width="430" alt="stats graph"  />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhfedatto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&hide=&order=2" height="165" alt="languages graph"  /> <!--<br> width="350"-->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vhfedatto&locale=en-us&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="165"  alt="streak graph"  />
-  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=vhfedatto&radius=16&theme=nightowl&area=true&order=5" height="150" alt="activity-graph graph"  />-->
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=vhfedatto&radius=16&theme=nightowl&area=true&order=5" height="150" alt="activity-graph graph"  />--> 
 </div>
 
 <!-- OUTRO TIPO DE RANK DE LINGUAGENS - PEGUEI DE UM PERFIL JAPA
