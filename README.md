@@ -74,6 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" alt="gitlab logo"  />
   <img width="3" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="35" alt="docker logo"  />
+  <img width="3" />
+  <img src="assets/icons/tecs/mermaid.png" width="35" alt="docker logo"  />
 </div>
 
 ###
