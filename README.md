@@ -7,7 +7,6 @@
   </a>
   oioi
 </p>
-.
 --- -->
 
 <p align="center">
