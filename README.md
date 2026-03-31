@@ -29,7 +29,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vhfedatto.vhfedatto&left_color=darkred&right_color=palevioletred"  />
 
 - <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian, 20 year old, student of **Law (FICV)** and **Computer Science (UNIESP)**
-- 📚 Passionate about **Java**, but currently focused on **Ruby**, **JS**, **UX/UI design**, and documentation
+- 📚 Passionate about **Ruby**, but currently focused on **Figma**, **JS**, **UX/UI design**, and documentation
 
 ---
 
