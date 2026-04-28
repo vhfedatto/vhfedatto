@@ -29,7 +29,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vhfedatto.vhfedatto&left_color=darkred&right_color=palevioletred"  />
 
 - <img src="assets/idiomas/br.svg" width="15" alt="brazil"  /> Brazilian, 20 year old, student of **Law (FICV)** and **Computer Science (UNIESP)**
-- 📚 Passionate about **Ruby**, but currently focused on **Figma**, **JS**, **UX/UI design**, and documentation
+- 📚 Passionate about **Ruby** and **Python**, but currently focused on **Figma**, **UX/UI design**, and documentation
 
 ---
 
@@ -48,9 +48,9 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="javascript logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="java logo"  />
-  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="java logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="30" alt="ruby logo"  />
   <img width="4" />
