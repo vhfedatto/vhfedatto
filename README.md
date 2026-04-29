@@ -14,13 +14,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="105" alt="gmail logo" target="_blank" />
-    <a href="https://dribbble.com/vhfedatto">
+  <a href="https://dribbble.com/vhfedatto">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" width="135" alt="dribbble logo"  />
   </a>
   <a href="https://www.linkedin.com/in/victor-hugo-fedatto-625b1b323/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="110" alt="linkedin logo" target="_blank" />  
   </a>
-  <a href="https://www.instagram.com/fedatto_code/" target="_blank">
+  <a href="https://www.instagram.com/v_.hugo1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" width="150" alt="instagram logo" target="_blank" />
   </a>
 </div>
@@ -133,7 +133,7 @@
 
 <h2>✨ Extras</h2>
 
-- 🎨 I also work with **pixel art**, **design**, and **RPG Maker game development**
+- 🎨 I also work with **pixel art**, **design**, and **RPG Maker game development** (5 years of experience)
 - 🎯 I strive to unite **faith**, **logic**, and **creativity** in everything I do
 
 ###
