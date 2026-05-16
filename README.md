@@ -79,7 +79,7 @@
 
 ###
 
-<h2 align="center">📈 My GitHub Status 📈</h2>
+<h2 align="center">📈 My Status 📈</h2>
 
 ###
 
