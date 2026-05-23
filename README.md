@@ -64,6 +64,7 @@
 <h3 align="left">🧰 Technologies & Tools</h3>
 
 <div align="left">
+  <!--Mudar tudo para Skill icons-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="figma logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" alt="notion logo"  />
