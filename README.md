@@ -4,7 +4,6 @@
   <a href="https://mylink.com" target="_blank" style="text-decoration: none;">
     <i>Fedatto's Landing Page</i> 
     <img src="assets/icons/arrow-square-out.png" alt="link" style="vertical-align: middle; width:16px;" />
-    
   </a>
 </p>
 --- -->
