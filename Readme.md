@@ -23,8 +23,6 @@ I enjoy turning complex workflows into accessible products — from fitness mana
 | Project | What it does | Focus |
 | --- | --- | --- |
 | **[StepUp](https://github.com/vhfedatto/pjt-Stepup)** | Platform for trainers to manage athletes, training plans, and progress tracking. | React, TypeScript, testing, product development |
-| **KeepMoney** *(in development)* | Personal finance application for income, subscriptions, budgets, and savings goals. | Full-stack development, financial dashboards, privacy-conscious design |
-| **Cartoreiro** *(in development)* | Software project focused on organizing legal and notarial workflows. | Legal tech, workflow design, frontend development |
 | **TechJur** *(academic project)* | Legal management concept for appointments, cases, and team workflows. | UX/UI, requirements, frontend, teamwork |
 
 > Some projects are private or still in development; public repositories and demos will be linked when available.
